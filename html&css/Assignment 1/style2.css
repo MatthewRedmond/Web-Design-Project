@@ -1,0 +1,56 @@
+body{
+	background-image: url("http://www.shortday.in/wp-content/uploads/2015/12/mountain-wallpapers.jpg");
+	background-repeat: no-repeat;
+	
+}
+h1{
+	color: white;
+    text-align: center;
+	text-decoration: underline;
+	background-color: black;
+	opacity: 0.6;
+	font-size: 40px;
+}
+h2{
+	color: white;
+    text-align: center;
+	text-decoration: underline;
+	background-color: black;
+	opacity: 0.6;
+	font-size: 40px;
+	margin: 700px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h3{
+	color: white;
+    text-align: center;
+	text-decoration: underline;
+	background-color: black;
+	opacity: 0.6;
+	font-size: 40px;
+	margin: 700px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}h4{
+	color: white;
+    text-align: center;
+	text-decoration: underline;
+	background-color: black;
+	opacity: 0.6;
+	font-size: 40px;
+	margin: 700px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+p{
+	color: white;
+	background-color: black;
+	margin: 500px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	opacity: 0.6;
+	font-size: 20px;
+	text-align: center;
+}
+

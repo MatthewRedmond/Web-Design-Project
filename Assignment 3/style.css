@@ -1,0 +1,9 @@
+.bg-1 { 
+    background-image: url("stripes2.jpg");
+	background-repeat: no-repeat;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
